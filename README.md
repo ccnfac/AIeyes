@@ -30,8 +30,8 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 ### 🏫 Schools & Public Buildings
 
 * Gunshot detection and source triangulation
-* Parent-child visual verification for check-in
-* Classroom monitoring and alert relay to authorities
+* Parent-child visual identification
+* Monitoring and alert relay to authorities
 
 ### 🪖 Military & Recon
 
