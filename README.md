@@ -47,10 +47,10 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 
 ### 🚔 Integrtion with City & Law Enforcement
 
-* Mobile AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
-* CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* Drone Support**: Real-time drone deployment on incident detection with visual/thermal tracking
-* Gimbal Kits**: Gimbal-based target tracking and automatic sound triangulation
+* Mobile AI Surveillance Units: Deployable on poles, rooftops, or vehicles with counter support integration
+* CamNetwork: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
+* Drone Support: Real-time drone deployment on incident detection with visual/thermal tracking
+* Gimbal Kits: Gimbal-based target tracking and automatic sound triangulation
 
 ---
 
