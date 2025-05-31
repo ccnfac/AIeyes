@@ -6,7 +6,8 @@ Welcome to the official repository for [**AI Companion**](https://github.com/cad
 
 ---
 
-![IMG_9690 (1)](https://github.com/user-attachments/assets/5a15b416-bcb7-4cdd-a523-90560b5a73c3)
+![ChatGPT Image May 31, 2025, 07_07_23 AM](https://github.com/user-attachments/assets/297ed434-5489-431b-b79a-6c10d84dc67a)
+
 
 ---
 
