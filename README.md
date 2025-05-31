@@ -21,20 +21,6 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 
 ## 💡 Use Cases
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### 🚓 Police & Tactical Units
 
 * **Real-time shooter identification
@@ -84,16 +70,16 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 
 ## 🎯 Modes of Operation
 
-* **Track**: Follow identified threat or object across networked cameras
-* **Surveil**: Passive monitor mode with facial recognition and visual anomaly alerts
-* **Recon**: Scan area, sweep for threat signatures, report findings via voice or API
-* **Command Relay**: View or respond to MyNetwerk-issued alerts in HUD
+* Track: Follow identified threat or object across networked cameras
+* Surveil: Passive monitor mode with facial recognition and visual anomaly alerts
+* Recon: Scan area, sweep for threat signatures, report findings via voice or API
+* Command Relay: View or respond to MyNetwerk-issued alerts in HUD
 
 ---
 
 ## 🔐 Security-First Design
 
-* **Offline-first AI** — no cloud dependencies
+* Offline-first AI — no cloud dependencies
 * Encrypted local inference with secure update and access layers
 * Firmware tamper detection and signed runtime
 
@@ -101,7 +87,7 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 
 ## 📡 CamNetwork
 
-* **Instant camera mesh** with linkable URLs
+* Instant camera mesh with linkable URLs
 * Users can spin up and share secure camera feeds
 * Uses AI to scan CamNetwork feeds
 * Triangulated location from multiple acoustic sensors
