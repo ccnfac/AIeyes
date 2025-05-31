@@ -23,34 +23,34 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 
 ### 🚓 Police & Tactical Units
 
-* **Real-time shooter identification
-* **Suspect tracking with CamNetwork triangulation
-* **Secure audio/visual team coordination
+* Real-time shooter identification
+* Suspect tracking with CamNetwork triangulation
+* Secure audio/visual team coordination
 
 ### 🏫 Schools & Public Buildings
 
-* **Gunshot detection and source triangulation
-* **Parent-child visual verification for check-in
-* **Classroom monitoring and alert relay to authorities
+* Gunshot detection and source triangulation
+* Parent-child visual verification for check-in
+* Classroom monitoring and alert relay to authorities
 
 ### 🪖 Military & Recon
 
-* **Perimeter scanning
-* **Thermal and radar-assisted target acquisition
-* **Drone pairing and AR-enhanced battlefield targeting
+* Perimeter scanning
+* Thermal and radar-assisted target acquisition
+* Drone pairing and AR-enhanced battlefield targeting
 
 ### 🏙️ Smart Cities
 
-* **City-scale CamNetwork integration
-* **Crowd behavior analysis
-* **Emergency dispatch AI overlay
+* City-scale CamNetwork integration
+* Crowd behavior analysis
+* Emergency dispatch AI overlay
 
 ### 🚔 Integrtion with City & Law Enforcement
 
-* **Mobile AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
-* **CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* **Drone Support**: Real-time drone deployment on incident detection with visual/thermal tracking
-* **Gimbal Kits**: Gimbal-based target tracking and automatic sound triangulation
+* Mobile AI Surveillance Units**: Deployable on poles, rooftops, or vehicles with counter support integration
+* CamNetwork**: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
+* Drone Support**: Real-time drone deployment on incident detection with visual/thermal tracking
+* Gimbal Kits**: Gimbal-based target tracking and automatic sound triangulation
 
 ---
 
