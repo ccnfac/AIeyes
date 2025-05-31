@@ -1,4 +1,103 @@
 AIeyes
+Welcome to the official documentation for AIeyes — an advanced AI-powered tactical AR eyewear system that integrates computer vision, thermal + IR optics, voice control, and MyNetwerk CamGrid connectivity to provide real-time threat detection, team coordination, and situational awareness for schools, police forces, city security, and military teams.
+
+
+
+🚀 Why AIeyes?
+AIeyes transforms your field of vision into a smart sensor network—blending night vision, radar, thermal detection, and augmented situational overlays into a single rugged device. Whether monitoring a school hallway or securing a battlefield rooftop, AIeyes enables edge-native threat recognition with instant MyNetwerk CamGrid access.
+
+💡 Use Cases
+🚓 Police & Tactical Units
+Real-time shooter identification
+
+Suspect tracking with CamNetwork triangulation
+
+Secure audio/visual team coordination
+
+🏫 Schools & Public Buildings
+Gunshot detection and source triangulation
+
+Parent-child visual verification for check-in
+
+Classroom monitoring and alert relay to authorities
+
+🪖 Military & Recon
+Perimeter scanning
+
+Thermal and radar-assisted target acquisition
+
+Drone pairing and AR-enhanced battlefield targeting
+
+🏙️ Smart Cities
+City-scale CamNetwork integration
+
+Crowd behavior analysis
+
+Emergency dispatch AI overlay
+
+🛠️ Technical Overview
+Component	Details
+Camera System	Dual Flip-Up NoIR + IR 1080p Lens Modules
+Sensors	Integrated Radar + Thermal + Microphone Array
+Display	OLED AR Lenses with Auto-Dimming in Sunlight
+Audio	Bone-Conducting or Stereo Temple Speakers with Noise-Isolated Mic
+Power	USB-C Rechargeable Battery or Modular Clip-in Pack
+Software Stack	On-device YOLOv8, Whisper, Team ID CV Models, Ontology Integration
+Connectivity	Bluetooth, Wi-Fi Mesh, CamNetwork sync (optional LTE module)
+
+🎯 Modes of Operation
+Track — Follow moving threats or targets across devices
+
+Surveil — Passive anomaly and motion detection
+
+Recon — Sweep and classify visual/radar targets in real time
+
+Command Relay — View or respond to MyNetwerk-issued alerts in HUD
+
+🔐 Security-First Design
+Offline-first edge inference with no cloud requirement
+
+Fully encrypted storage, firmware, and runtime
+
+Tamper detection + signed software updates
+
+Secure CamGrid access over trusted public/private mesh
+
+📡 CamNetwork Integration
+Shareable live camera feeds with instant pairing
+
+Create tactical camera meshes from users in same area
+
+AI-based detection of visual, thermal, and acoustic threats
+
+Triangulate gunshot sources using microphone + radar signatures
+
+Supports Palantir/Gotham-style backends and security integrations
+
+💼 Revenue Model
+We offer AIeyes in two configurations:
+
+Tier	Description
+Standalone Device	Local-only mode with optional cloud sync. Price: $199–$2499 depending on kit
+AI Companion as a Service (AICaaS)	Subscription includes: updates, APIs, ontology sync, language packs, secure cloud features
+
+📈 Investment Opportunity
+We are raising capital to:
+
+Finalize hardware prototype and rugged device housing
+
+Establish scalable production and logistics pipeline
+
+Expand software pipeline and API ecosystem for agency/city use
+
+Pilot deployment in U.S. schools, urban police departments, and tactical training programs
+
+📸 Screenshots
+Coming Soon: MyNetwerk HUD Overlay, Live Camera Mesh, Sniper Overwatch Mode, and Threat Recon Dashboards
+
+
+
+AIeyes
 Intelligent Tactical Eyewear for Surveillance, Safety, and Situational Awareness
 
 🦅 Overview
