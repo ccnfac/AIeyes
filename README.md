@@ -45,7 +45,7 @@ The future is edge-native. AI Eyes enables **localized, attritable intelligence*
 * Crowd behavior analysis
 * Emergency dispatch AI overlay
 
-### 🚔 Integrtion with City & Law Enforcement
+### 🚔 Integration with City & Law Enforcement
 
 * Mobile AI Surveillance Units: Deployable on poles, rooftops, or vehicles with counter support integration
 * CamNetwork: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
