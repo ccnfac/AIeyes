@@ -92,7 +92,7 @@ We offer AI Eyes in two configurations:
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$499–\$2499 depending on kit             |
-| **AI Eyes as a Service (AICaaS)**      | Subscription includes: updates, APIs, ontology sync, language packs, secure cloud features |
+| **AI as a Service (AIaaS)**            | Subscription includes: updates, APIs, ontology sync, language packs, secure cloud features |
 
 ---
 
