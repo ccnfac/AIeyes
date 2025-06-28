@@ -13,9 +13,9 @@ Welcome to the official repository for [**AI Eyes**](https://github.com/caddison
 
 ## 🚀 Why AI Eyes?
 
-AI Eyes transforms your field of vision into a smart sensor network—blending night vision, radar, thermal detection, and augmented situational overlays into a single rugged device. Whether monitoring a school hallway or securing a battlefield rooftop, AI Eyes enables edge-native threat recognition with instant access to a Camera Network of surveillance options.
+AI Eyes transforms your field of vision into a smart sensor network blending night vision, radar, thermal detection, and augmented situational overlays into a single rugged device. Whether monitoring a school hallway or securing a battlefield rooftop, AI Eyes enables edge-native threat recognition with instant access to a Camera Network of surveillance options.
 
-The future is edge-native. AI Eyes enables **localized intelligence** with **real-time, privacy-respecting inference**. Whether for **city-wide surveillance** or **public safety**, this is **AI where you need it**—**not in the cloud**.
+The future is edge native. AI Eyes enables **localized intelligence** with **real-time, privacy-respecting inference**. Whether for **city-wide surveillance** or **public safety**, this is **AI where you need it**.
 
 ---
 
