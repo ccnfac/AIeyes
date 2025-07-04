@@ -45,8 +45,6 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 * Gimbal Kits: Gimbal-based target tracking and automatic sound triangulation
 * Triangulated location from multiple acoustic sensors
 
----
-
 ## 🎯 Modes of Operation
 
 * Track: Follow identified threat or object across networked cameras
