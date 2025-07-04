@@ -2,7 +2,7 @@
 
 # AI Eyes
 
-Welcome to the official repository for [**AI Eyes**](https://github.com/caddison/AIeyes) — a next generation **AR eyewear system** designed for mission critical environments, police units, school safety officers, and tactical teams. Equipped with flip down NoIR or IR cameras, radar, thermal, and AI-powered detection, AI Eyes turns your vision into a live sensor network.
+Welcome to the official repository for [**AI Eyes**](https://github.com/caddison/AIeyes) — a next generation **AR eyewear system** designed for mission critical environments, police units, school safety officers, and tactical teams. Equipped with flip down NoIR or IR cameras, thermal, and AI-powered detection, AI Eyes turns your vision into a live sensor network.
 
 ---
 
@@ -22,7 +22,7 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 ### 🚓 Police & Tactical Units
 
 * Real time shooter identification
-* Suspect tracking with Camera Network triangulation
+* Suspect tracking via Camera Network
 * Secure audio/visual team coordination
 * Gunshot detection and source triangulation
 * Authorized persons visual identification
