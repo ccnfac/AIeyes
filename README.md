@@ -15,8 +15,6 @@ Welcome to the official repository for [**AI Eyes**](https://github.com/caddison
 
 AI Eyes transforms your field of vision into a smart sensor network blending night vision, radar, thermal detection, and augmented situational overlays into a single rugged device. Whether monitoring a school hallway or securing a battlefield rooftop, AI Eyes enables edge native threat recognition with instant access to a Camera Network of surveillance options.
 
-The future is edge native. AI Eyes enables **localized intelligence** with **real time, privacy respecting inference**. Whether for **city-wide surveillance** or **public safety**, this is **AI where you need it**.
-
 ---
 
 ## 💡 Use Cases
@@ -26,11 +24,8 @@ The future is edge native. AI Eyes enables **localized intelligence** with **rea
 * Real time shooter identification
 * Suspect tracking with Camera Network triangulation
 * Secure audio/visual team coordination
-
-### 🏫 Schools & Public Buildings
-
 * Gunshot detection and source triangulation
-* Parent-child visual identification (optional)
+* Authorized persons visual identification
 * Monitoring and alert relay to authorities
 
 ### 🪖 Military & Recon
@@ -44,13 +39,19 @@ The future is edge native. AI Eyes enables **localized intelligence** with **rea
 * City scale Camera Network integration
 * Crowd behavior analysis
 * Emergency dispatch AI overlay
-
-### 🚔 Integration with City & Law Enforcement
-
-* Mobile AI Surveillance Units: Deployable on poles, rooftops, or vehicles with counter support integration
+* Automated Road Interdiction System (ARIS)
 * Camera Network: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
 * Drone Support: Real time drone deployment on incident detection with visual/thermal tracking
 * Gimbal Kits: Gimbal-based target tracking and automatic sound triangulation
+* Triangulated location from multiple acoustic sensors
+
+---
+
+## 🎯 Modes of Operation
+
+* Track: Follow identified threat or object across networked cameras
+* Surveil: Passive monitor mode with facial recognition and visual anomaly alerts
+* Recon: Scan area, sweep for threat signatures, report findings via voice 
 
 ---
 
@@ -68,48 +69,13 @@ The future is edge native. AI Eyes enables **localized intelligence** with **rea
 
 ---
 
-## 🎯 Modes of Operation
-
-* Track: Follow identified threat or object across networked cameras
-* Surveil: Passive monitor mode with facial recognition and visual anomaly alerts
-* Recon: Scan area, sweep for threat signatures, report findings via voice 
-
----
-
-## 📡 Camera Network
-
-* Instant camera mesh with linkable URLs
-* Users can spin up and share secure camera feeds
-* Uses AI to scan Camera Network feeds
-* Triangulated location from multiple acoustic sensors
-
----
-
 ## 💼 Revenue Model
 
 We offer AI Eyes in two configurations:
 
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Standalone Device**                  | Local only mode with optional cloud sync. Price: \$1499–\$2499 depending on kit            |
-| **AI as a Service (AIaaS)**            | Subscription includes: updates, APIs, ontology sync, language packs, secure cloud features |
+| **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$1499–\$2499 depending on kit            |
+| **Software as a Service (SaaS)**       | Subscription includes: APIs, ontology sync, secure cloud features, model updates           |
 
 ---
-
-## 📈 Investment Opportunity
-
-We are raising money to:
-
-* Finalize prototype and secure rugged, attritable device design
-* Establish manufacturing at scale
-* Build software pipelines and cloud integration for law enforcement, schools, and cities
-* Pilot deployments across **U.S. school districts**, **urban police departments**, and **tactical units**
-
----
-
-## 📸 Screenshots
-
-*Coming Soon...*
-
----
-
