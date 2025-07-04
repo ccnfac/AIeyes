@@ -39,11 +39,11 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 * City scale Camera Network integration
 * Crowd behavior analysis
 * Emergency dispatch AI overlay
-* Automated Road Interdiction System (ARIS)
-* Camera Network: Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* Drone Support: Real time drone deployment on incident detection with visual/thermal tracking
-* Gimbal Kits: Gimbal-based target tracking and automatic sound triangulation
+* Automated Road Interdiction System
 * Triangulated location from multiple acoustic sensors
+* Gimbal-based target tracking and automatic sound triangulation
+* Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
+* Real time drone deployment on incident detection with visual/thermal tracking
 
 ## 🎯 Modes of Operation
 
