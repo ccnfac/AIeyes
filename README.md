@@ -38,7 +38,7 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 
 * City scale Camera Network integration
 * Crowd behavior analysis
-* Emergency dispatch AI overlay
+* First responder dispatch AI overlay
 * Automated Road Interdiction System
 * Triangulated location from multiple acoustic sensors
 * Gimbal-based target tracking and automatic sound triangulation
