@@ -13,7 +13,7 @@ Welcome to the official repository for [**AI Eyes**](https://github.com/caddison
 
 ## 🚀 Why AI Eyes?
 
-AI Eyes transforms your field of vision into a smart sensor network blending night vision, radar, thermal detection, and augmented situational overlays into a single rugged device. Whether monitoring a school hallway or securing a battlefield rooftop, AI Eyes enables edge native threat recognition with instant access to a Camera Network of surveillance options.
+AI Eyes transforms your field of vision into a smart sensor network blending night vision, radar, and augmented situational overlays into a single rugged device. Whether monitoring a school hallway or securing a rooftop, AI Eyes enables edge native object recognition with instant access to a network of surveillance options.
 
 ---
 
@@ -22,7 +22,6 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 ### 🚓 Police & Tactical Units
 
 * Real time shooter identification
-* Suspect tracking via Camera Network
 * Secure audio/visual team coordination
 * Gunshot detection and source triangulation
 * Authorized persons visual identification
@@ -31,25 +30,23 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 ### 🪖 Military & Recon
 
 * Perimeter scanning and Teaming assistance
-* Thermal and radar assisted target acquisition
-* Drone pairing and AR enhanced battlefield targeting
+* Thermal and radar assisted acquisition
+* Drone pairing and AR enhanced overlays
 
 ### 🏙️ Smart Cities
 
 * City scale Camera Network integration
 * Crowd behavior analysis
 * First responder dispatch AI overlay
-* Automated Road Interdiction System
 * Triangulated location from multiple acoustic sensors
 * Gimbal-based target tracking and automatic sound triangulation
-* Shareable URLs, instant camera mesh, scalable from a classroom to an entire city
-* Real time drone deployment on incident detection with visual/thermal tracking
+* Shareable URLs, instant camera mesh, scalable to an entire city
 
 ## 🎯 Modes of Operation
 
-* Track: Follow identified threat or object across networked cameras
-* Surveil: Passive monitor mode with facial recognition and visual anomaly alerts
-* Recon: Scan area, sweep for threat signatures, report findings via voice 
+* Track: Follow identified object across networked cameras
+* Surveil: Passive monitor mode with visual anomaly alerts
+* Recon: Scan area, sweep for anomalies, report findings via voice 
 
 ---
 
@@ -74,6 +71,6 @@ We offer AI Eyes in two configurations:
 | Tier                                   | Description                                                                                |
 | -------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Standalone Device**                  | Local-only mode with optional cloud sync. Price: \$1499–\$2499 depending on kit            |
-| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features, model updates           |
+| **Software as a Service**              | Subscription includes: APIs, ontology sync, secure cloud features, agentic workflows       |
 
 ---
