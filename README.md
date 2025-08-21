@@ -59,7 +59,7 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 | **Display**            | OLED AR Lenses with Auto Dimming in Sunlight                                  |
 | **Audio**              | OBone Conducting or Stereo Temple Speakers with Noise Isolated Mic            |
 | **Power**              | USB-C Rechargeable Battery or Modular Clip-in Pack                            |
-| **Software Stack**     | On device CV model, Whisper, Team ID CV Models, Ontology Integration          |
+| **Software Stack**     | On device CV model, Vosk, Team ID CV Models, Ontology Integration             |
 | **Connectivity**       | Bluetooth, Wi-Fi Mesh, LoraWAN, LTE module                                    |       
 
 ---
