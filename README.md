@@ -35,12 +35,9 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 
 ### 🏙️ Smart Cities
 
-* City scale Camera Network integration
+* City scale CamNetwork integration
 * Crowd behavior analysis
 * First responder dispatch AI overlay
-* Triangulated location from multiple acoustic sensors
-* Gimbal-based target tracking and automatic sound triangulation
-* Shareable URLs, instant camera mesh, scalable to an entire city
 
 ## 🎯 Modes of Operation
 
