@@ -23,7 +23,6 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 
 * Real time identification
 * Secure audio/visual team coordination
-* Gunshot detection and source triangulation
 * Authorized persons visual identification
 * Monitoring and alert relay to authorities
 
