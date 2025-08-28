@@ -21,7 +21,7 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 
 ### 🚓 Police & Tactical Units
 
-* Real time shooter identification
+* Real time identification
 * Secure audio/visual team coordination
 * Gunshot detection and source triangulation
 * Authorized persons visual identification
