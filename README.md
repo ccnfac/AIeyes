@@ -34,7 +34,7 @@ AI Eyes transforms your field of vision into a smart sensor network blending nig
 
 ### 🏙️ Smart Cities
 
-* City scale CamNetwork integration
+* Camera Network integration
 * Crowd behavior analysis
 * First responder dispatch AI overlay
 
